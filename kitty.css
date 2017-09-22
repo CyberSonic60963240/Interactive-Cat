@@ -10,25 +10,25 @@
 
 	@media screen and (min-width: 300px) {
 	img {
-	content: url(images/kittyloaf.gif);
+	content: url(kittyloaf.gif);
 	}
 	}
 	
 	@media screen and (min-width: 600px) {
 	img {
-	content: url(images/kitten-small.png);
+	content: url(kitten-small.png);
 	}
 	}
 	
 	@media screen and (min-width: 900px) {
 	img {
-	content: url(images/kitten-medium.png);
+	content: url(kitten-medium.png);
 	}
 	}
 	
 	@media screen and (min-width: 1200px) {
 		img {
-	content: url(images/kitten-large.png);
+	content: url(kitten-large.png);
 	}
 	}
 	
