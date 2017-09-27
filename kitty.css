@@ -16,7 +16,7 @@
 	
 	@media screen and (min-width: 600px) {
 	img {
-	content: url(/kitten-small.png);
+	content: url(kitten-small.png);
 	}
 	}
 	
